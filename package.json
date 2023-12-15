@@ -1,0 +1,28 @@
+{
+  "name": "uk_airports_departure_arrival_board",
+  "version": "1.0.0",
+  "description": "A Web Application displaying Departures and Arrivals for UK Airports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesWicks01/UK_Airports_Departure_Arrival_Board.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesWicks01/UK_Airports_Departure_Arrival_Board/issues"
+  },
+  "homepage": "https://github.com/JamesWicks01/UK_Airports_Departure_Arrival_Board#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.55.0",
+    "eslint-config-portsoc": "^1.0.1",
+    "nodemon": "^3.0.2"
+  }
+}
